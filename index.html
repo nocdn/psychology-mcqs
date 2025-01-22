@@ -1,13 +1,205 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + Svelte</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 20px;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+      }
+
+      .quiz-container {
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        width: 90%;
+        max-width: 600px;
+        margin-bottom: 20px;
+      }
+
+      .question {
+        font-size: 18px;
+        margin-bottom: 20px;
+        line-height: 1.4;
+      }
+
+      .options {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .option {
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      .option:hover {
+        background-color: #f5f5f5;
+      }
+
+      .option.correct {
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+      }
+
+      .option.incorrect {
+        background-color: #f8d7da;
+        border-color: #f5c6cb;
+      }
+
+      .navigation {
+        display: flex;
+        justify-content: space-between;
+        width: 90%;
+        max-width: 600px;
+      }
+
+      button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      button:hover {
+        background-color: #0056b3;
+      }
+
+      button:disabled {
+        background-color: #cccccc;
+        cursor: not-allowed;
+      }
+    </style>
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="/src/main.js"></script>
+    <div class="quiz-container">
+      <div class="question" id="question"></div>
+      <div class="options" id="options"></div>
+    </div>
+    <div class="navigation">
+      <button id="prevBtn">Previous</button>
+      <button id="nextBtn">Next</button>
+    </div>
+
+    <script>
+      const questionsAndAnswers = [
+        {
+          question:
+            "According to the lecture notes, what is a key limitation of defining mental health issues solely through 'statistical infrequency'?",
+          options: [
+            "It assumes that mental health disorders are increasing dramatically, when statistics have shown this is not the case",
+            "It assumes mental health disorders are rare, despite 1 in 8 people having a mental health disorder.",
+            "It focuses on distress rather than violations of social norms, when this has been shown to be incorrect.",
+            "It assumes behaviours are always abnormal and doesn't take into consideration context, or how common it may be in reality.",
+          ],
+          answer:
+            "It assumes mental health disorders are rare, despite 1 in 8 people having a mental health disorder.",
+        },
+        {
+          question:
+            "According to the lecture notes, what is a key feature of the International Classification of Diseases (ICD) compared to the DSM?",
+          options: [
+            "The ICD is more valued for research purposes as the information is more robust",
+            "The ICD provides more specific, quantitative descriptions of disorders.",
+            "The ICD is freely available and tends to be simpler and more qualitative than the DSM",
+            "The ICD includes all of the disorders listed in the DSM, as well as many more.",
+          ],
+          answer:
+            "The ICD is freely available and tends to be simpler and more qualitative than the DSM",
+        },
+        {
+          question:
+            "According to the notes, what was the primary issue leading to the fall in credibility of DID (Dissociative Identity Disorder) in popular culture?",
+          options: [
+            "The lack of a medical definition of DID in the DSM",
+            "Exposure of the 'Sybil' case, showing that the individual had been coached to create multiple personalities.",
+            "The inability to differentiate between DID and PTSD.",
+            "The lack of positive outcomes following treatments of DID.",
+          ],
+          answer:
+            "Exposure of the 'Sybil' case, showing that the individual had been coached to create multiple personalities.",
+        },
+      ];
+
+      let currentQuestionIndex = 0;
+      let answered = false;
+
+      const questionElement = document.getElementById("question");
+      const optionsElement = document.getElementById("options");
+      const prevBtn = document.getElementById("prevBtn");
+      const nextBtn = document.getElementById("nextBtn");
+
+      function displayQuestion() {
+        answered = false;
+        const currentQuestion = questionsAndAnswers[currentQuestionIndex];
+
+        questionElement.textContent = currentQuestion.question;
+
+        optionsElement.innerHTML = "";
+        currentQuestion.options.forEach((option, index) => {
+          const optionDiv = document.createElement("div");
+          optionDiv.className = "option";
+          optionDiv.textContent = option;
+          optionDiv.addEventListener("click", () => checkAnswer(option));
+          optionsElement.appendChild(optionDiv);
+        });
+
+        updateNavigationButtons();
+      }
+
+      function checkAnswer(selectedOption) {
+        if (answered) return;
+
+        const currentQuestion = questionsAndAnswers[currentQuestionIndex];
+        const options = document.querySelectorAll(".option");
+
+        options.forEach((option) => {
+          if (option.textContent === currentQuestion.answer) {
+            option.classList.add("correct");
+          } else if (option.textContent === selectedOption) {
+            option.classList.add("incorrect");
+          }
+        });
+
+        answered = true;
+      }
+
+      function updateNavigationButtons() {
+        prevBtn.disabled = currentQuestionIndex === 0;
+        nextBtn.disabled =
+          currentQuestionIndex === questionsAndAnswers.length - 1;
+      }
+
+      prevBtn.addEventListener("click", () => {
+        if (currentQuestionIndex > 0) {
+          currentQuestionIndex--;
+          displayQuestion();
+        }
+      });
+
+      nextBtn.addEventListener("click", () => {
+        if (currentQuestionIndex < questionsAndAnswers.length - 1) {
+          currentQuestionIndex++;
+          displayQuestion();
+        }
+      });
+
+      // Initialize the first question
+      displayQuestion();
+    </script>
   </body>
 </html>
