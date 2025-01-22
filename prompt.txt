@@ -1,0 +1,9 @@
+now, for all of those questions that you just made me, please structure all of these questions in an array of dicts like this:
+
+[
+{
+question: "the actual question",
+options: [an array of the possible answers],
+answer: "the actual correct option out of the available answers"
+},
+]
