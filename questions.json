@@ -1,0 +1,752 @@
+[
+  {
+    "question": "Which of the following statements best describes the difference in how the DSM and ICD approach the classification of mental disorders, based on your notes?",
+    "options": [
+      "The DSM is more qualitative in its descriptions, while the ICD is quantitatively based, and is therefore favoured in research due to its more specific approach.",
+      "The DSM is primarily used in Europe and is free, while the ICD is used in the US and is very expensive.",
+      "The DSM, compared to the ICD, is often criticized for its detailed symptom descriptions and associated diagnostic criteria, which makes it more suited for research and less accessible to general medical use.",
+      "The ICD is less valued in research settings as the descriptions of disorders are general and lack quantitative data, and thus does not update with newer findings as quickly as DSM."
+    ],
+    "answer": "The ICD is less valued in research settings as the descriptions of disorders are general and lack quantitative data, and thus does not update with newer findings as quickly as DSM."
+  },
+  {
+    "question": "According to your notes, which of the following best describes the controversy around the rise of DID diagnoses, specifically in the 1980’s?",
+    "options": [
+      "The dramatic rise in cases coincided with the exposure of Sybil as a hoax, leading to questions about the validity of DID.",
+      "Despite a peak in diagnoses in the 1980s, this was not a true reflection of increasing cases and was largely due to cult-based hysteria and inappropriate techniques.",
+      "The increase of DID cases was mainly due to more cases being found in the general public due to wider awareness of the disorder, with treatment through hypnosis and medication being shown to be successful.",
+      "An increase in diagnosis was directly related to a new definition of the disorder being published in the DSM in 1980, making diagnoses easier."
+    ],
+    "answer": "Despite a peak in diagnoses in the 1980s, this was not a true reflection of increasing cases and was largely due to cult-based hysteria and inappropriate techniques."
+  },
+  {
+    "question": "Which statement best describes the 'neuroadaptation' process, as detailed in your notes, in relation to addictive behaviours like social media use and computer gaming?",
+    "options": [
+      "It refers to the brain increasing grey matter and dopamine receptor availability in response to excessive stimuli to heighten the reward system.",
+      "It involves the brain's attempt to maintain homeostasis by decreasing grey matter and reducing dopamine receptor availability as a result of chronic overstimulation.",
+      "It is a short-term reduction in neural activity that occurs directly after using addictive substances or engaging in addictive behaviour, and which then returns to normal levels.",
+      "It is the brain's ability to quickly adapt and develop new neural pathways to help people stop addictive behaviours."
+    ],
+    "answer": "It involves the brain's attempt to maintain homeostasis by decreasing grey matter and reducing dopamine receptor availability as a result of chronic overstimulation."
+  },
+  {
+    "question": "How does the concept of 'Pavlovian conditioning' contribute to our understanding of addiction according to your notes?",
+    "options": [
+      "It explains that addiction is a result of an over active unconditioned stimulus",
+      "It highlights how drug-associated stimuli (CS) come to acquire potent conditioned properties by activating the mesoaccumbens dopamine projection, leading to craving.",
+      "It explains how drugs activate mesoaccumbens dopamine projection which are then interpreted as potent stimuli, which is why people relapse months later.",
+      "It is a result of reward stimuli not properly activating the mesoaccumbens dopamine projection, which results in an increase in drug use."
+    ],
+    "answer": "It highlights how drug-associated stimuli (CS) come to acquire potent conditioned properties by activating the mesoaccumbens dopamine projection, leading to craving."
+  },
+  {
+    "question": "Based on the information in your notes, which of the following best describes the role of 'interoceptive cues' in the development of Panic Disorder?",
+    "options": [
+      "Small internal signals have an unconditioned response, which triggers a panic attack.",
+      "Small internal signals lack emotional meaning but, through conditioning, can become associated with a state of panic, leading to a conditioned response.",
+      "Large external signals signal a state of panic, leading to an unconditioned response, which can then become a phobia.",
+      "Internally-triggered panic attacks are caused by large signals being misattributed to unconditioned stimuli."
+    ],
+    "answer": "Small internal signals lack emotional meaning but, through conditioning, can become associated with a state of panic, leading to a conditioned response."
+  },
+  {
+    "question": "How do the findings from studies using the “think/no-think” procedure relate to the understanding of conversion disorder (Functional Neurological Symptom Disorder)?",
+    "options": [
+      "They demonstrate that a physical injury causes conversion disorder through suppressing motor activity, due to over activation of the prefrontal cortex.",
+      "They provide a basis for the mechanism of conscious recall of memories in the hippocampus, rather than suppression, and the differences in this for individuals with conversion disorder.",
+      "They suggest that the dorsolateral prefrontal cortex is involved in suppressing unwanted memories, which is a process that is relevant in understanding the mechanisms of conversion disorder.",
+      "They show there was no change to dorsolateral prefrontal cortex or hippocampus activity."
+    ],
+    "answer": "They suggest that the dorsolateral prefrontal cortex is involved in suppressing unwanted memories, which is a process that is relevant in understanding the mechanisms of conversion disorder."
+  },
+  {
+    "question": "Based on your notes, what is a critical distinction in how Body Dysmorphic Disorder (BDD) patients process faces, as shown by Feussner et al (2010), compared to how most people process faces?",
+    "options": [
+      "BDD patients show a larger activation in the occipital cortex in response to facial stimuli, compared to controls.",
+      "BDD patients' processing of faces is more susceptible to the Thatcher Illusion, and so they are slower to perceive face inversions.",
+      "BDD patients are less affected by facial inversions, suggesting they focus more on the details of a face rather than processing it as a whole.",
+      "BDD patients process faces as a whole, and so can identify a correct face much quicker."
+    ],
+    "answer": "BDD patients are less affected by facial inversions, suggesting they focus more on the details of a face rather than processing it as a whole."
+  },
+  {
+    "question": "In your notes on Obsessive-Compulsive Disorder (OCD), which of the following statements correctly describes findings of the studies measuring brain activation during specific tasks?",
+    "options": [
+      "The orbitofrontal cortex (OFC) was not activated when ppts made a mistake during the ‘go/no-go task’, indicating an over reliance on the anterior cingulate during mistakes",
+      "Studies showed a decrease in activation of the orbitofrontal cortex (OFC) and anterior cingulate area (ACC) after treatment through both medication and cognitive behavioural therapy.",
+      "There was an overall increase in frontal-striatal activation both when making correct decisions, and during mistakes.",
+      "The Stroop test showed a decrease in frontal response to symptom provocation, with the activation of the fusiform gyri."
+    ],
+    "answer": "Studies showed a decrease in activation of the orbitofrontal cortex (OFC) and anterior cingulate area (ACC) after treatment through both medication and cognitive behavioural therapy."
+  },
+  {
+    "question": "Which of the following is a core principle of Symbolic Interactionism, as presented in your notes?",
+    "options": [
+      "Our self-concept is determined by a fixed set of internalized cultural values and beliefs, formed during childhood.",
+      "Our self-concept is primarily formed through comparisons with others, seeking downward comparisons to increase self-esteem.",
+      "Our self-concept is continuously modified through interactions with society, particularly through language and gesture.",
+      "Our self-concept is primarily derived from observing our own behaviour and is not influenced by social interactions."
+    ],
+    "answer": "Our self-concept is continuously modified through interactions with society, particularly through language and gesture."
+  },
+  {
+    "question": "According to your notes, what is the core concept of Self-Discrepancy Theory, particularly in relation to the 'ought self'?",
+    "options": [
+      "The 'ought self' is our ideal vision of the self, which is a mixture of ego and self-actualization, and which we are always striving to meet.",
+      "The 'ought self' is our ideal vision of the self, which is what others are telling us we should be.",
+      "Discrepancies between the 'actual self' and the 'ought self' can lead to feelings of dejection and sadness due to the large gaps that exist.",
+      "The 'ought self' is our belief about who we think we should be, and discrepancies with our actual self can lead to feelings of guilt and low self-esteem."
+    ],
+    "answer": "The 'ought self' is our belief about who we think we should be, and discrepancies with our actual self can lead to feelings of guilt and low self-esteem."
+  },
+  {
+    "question": "According to your notes, how does the concept of 'ego depletion' relate to the idea of self-control?",
+    "options": [
+      "Ego depletion suggests that acts of self-control are unlimited and do not have a diminishing effect.",
+      "Ego depletion is a state of increased self-control following exertion of willpower on a previous task, creating a ‘build-up’ effect.",
+      "Ego depletion indicates that the exertion of self-control depends on a limited resource, and acts of self-control can impair subsequent self-control, even on unrelated tasks.",
+      "Ego depletion does not have an effect on people’s decision making."
+    ],
+    "answer": "Ego depletion indicates that the exertion of self-control depends on a limited resource, and acts of self-control can impair subsequent self-control, even on unrelated tasks."
+  },
+  {
+    "question": "According to the lecture notes, what is the fundamental attribution error, and which of the following best describes its cause?",
+    "options": [
+      "It is the tendency to emphasize situational factors, often due to incomplete corrections, when interpreting another's behaviour.",
+      "It is the tendency to overestimate the importance of dispositional factors and underestimate situational factors, particularly due to a lack of awareness of the situation preceding.",
+      "It is the tendency to apply one’s own set of ideals onto the perceived behaviour of another.",
+      "It is a combination of lack of awareness of the situation and unrealistic expectations, which cannot be altered."
+    ],
+    "answer": "It is the tendency to overestimate the importance of dispositional factors and underestimate situational factors, particularly due to a lack of awareness of the situation preceding."
+  },
+  {
+    "question": "Based on the notes, what is a key finding of research examining social media use and self-presentation?",
+    "options": [
+      "Social media provides opportunities to present an online self that is generally more honest and authentic than real-life presentations.",
+      "Motivations for posting sexualized content on social media vary between cultures and appear to be strongly influenced by both seeking attention and matching ones ideal self",
+      "An individual’s level of self-sexualisation can reliably predict their levels of self-esteem, where self-sexualisation always has a negative effect.",
+      "Research suggests that the more that people post on social media, the higher their level of self esteem becomes"
+    ],
+    "answer": "Motivations for posting sexualized content on social media vary between cultures and appear to be strongly influenced by both seeking attention and matching ones ideal self"
+  },
+  {
+    "question": "According to Terror Management Theory (TMT), what is the primary function of self-esteem?",
+    "options": [
+      "To increase awareness and anxiety about death so people can properly appreciate their lives",
+      "To buffer the anxiety that results from the awareness of the inevitability of death by establishing a system of dual components including self-esteem",
+      "To encourage a positive view of the self based on the views of others.",
+      "To maintain awareness of cultural worldviews, which are completely separate to self-esteem."
+    ],
+    "answer": "To buffer the anxiety that results from the awareness of the inevitability of death by establishing a system of dual components including self-esteem"
+  },
+  {
+    "question": "Based on the lecture notes, what did the study by Turk et al (2002) reveal about the differences in self-recognition between hemispheres of the brain, as found in split-brain patients?",
+    "options": [
+      "Both hemispheres were capable of face recognition, but the left hemisphere showed a bias for recognising familiar others, and right for the self.",
+      "Both hemispheres were capable of face recognition but with no biases.",
+      "Both hemispheres were capable of face recognition, but the left hemisphere showed a bias for self-recognition while the right hemisphere showed a bias for familiar others.",
+      "Only the right hemisphere was capable of face recognition, while the left was more focussed on linguistic processing."
+    ],
+    "answer": "Both hemispheres were capable of face recognition, but the left hemisphere showed a bias for self-recognition while the right hemisphere showed a bias for familiar others."
+  },
+  {
+    "question": "According to your lecture notes, which of the following best summarises key characteristics of Deindividuation Theory?",
+    "options": [
+      "Deindividuation theory emphasizes how the social context leads to a loss of self-awareness and subsequent heightened behaviours, with specific focus on the individual's thought processes.",
+      "It states that the presence of anonymity and reduced individual responsibility within a group are the sole causes of instinctual behaviours, without considering social norms.",
+      "Deindividuation explains why individuals, when part of a crowd, engage in behaviours based on pre-existing values, and without any effect on individual thought.",
+      "Deindividuation explains how a loss of identity in a crowd can weaken inhibitions and increase impulsive behavior based on the group identity."
+    ],
+    "answer": "Deindividuation explains how a loss of identity in a crowd can weaken inhibitions and increase impulsive behavior based on the group identity."
+  },
+  {
+    "question": "According to your lecture notes, what does the Social Identity Model of Deindividuation Effects (SIDE) propose regarding changes in personal and social identities during crowd situations?",
+    "options": [
+      "SIDE argues that in crowd situations, individuals will lose sight of their personal identity, leaving them solely focused on social norms.",
+      "SIDE suggests that crowd situations result in heightened personal identity, but a loss of social identity.",
+      "SIDE proposes that, rather than losing identity completely, individuals shift between a focus on either social or personal identity, based on the context of the situation.",
+      "SIDE is not related to crowd situations or identity."
+    ],
+    "answer": "SIDE proposes that, rather than losing identity completely, individuals shift between a focus on either social or personal identity, based on the context of the situation."
+  },
+  {
+    "question": "According to the research discussed in your notes, what are the core findings of Steiner et al’s (2010) study on adherence to group norms in relation to prototypicality and need to belong?",
+    "options": [
+      "Prototypes displayed group norms with low need to belong, but peripheral members didn’t regardless of need to belong.",
+      "Peripheral members with a low need to belong were affected by group norms more so than those with a high need to belong.",
+      "Prototypes adhered to group norms regardless of their need to belong, but peripheral members with high need to belong adhered to group norms while those with low did not.",
+      "Only participants who had a high need to belong were more likely to adhere to group norms, regardless of their level of prototypicality."
+    ],
+    "answer": "Prototypes adhered to group norms regardless of their need to belong, but peripheral members with high need to belong adhered to group norms while those with low did not."
+  },
+  {
+    "question": "Based on the lecture notes on prosocial behaviour, how does the 'Bystander Calculus Model' explain how people might approach situations where help is needed?",
+    "options": [
+      "It highlights how we will respond most strongly to those who are genetically similar to us, based purely on biological factors.",
+      "It suggests helping is a way to reduce personal distress which is done through assessing the situation and choosing the lowest cost to the helper.",
+      "It claims that we are purely selfless and want to help others when needed, with no regard to personal cost.",
+      "It focuses on the impact of a person’s personality on helping behaviour."
+    ],
+    "answer": "It suggests helping is a way to reduce personal distress which is done through assessing the situation and choosing the lowest cost to the helper."
+  },
+  {
+    "question": "According to the lecture notes, how did Grusec and Goodnow (1994) propose that children internalize parental messages about prosocial behavior?",
+    "options": [
+      "Children are more likely to accept messages that are inconsistent, so as to learn how to adapt in more situations.",
+      "Children are more likely to accept messages that do not align with other messages about behavior in order to develop an independent mind.",
+      "Internalization of parental messages depends on accurately perceiving a message and accepting the message, which requires consistency, and autonomy respectively.",
+      "Internalization of parental messages depends purely on how parents respond in moments of negative behavior and that there is no relation to parental messaging."
+    ],
+    "answer": "Internalization of parental messages depends on accurately perceiving a message and accepting the message, which requires consistency, and autonomy respectively."
+  },
+  {
+    "question": "What is a key finding of Roy et al.'s research on the impact of the number of help-seekers on helping behavior, based on the lecture notes?",
+    "options": [
+      "People are more likely to help when there are multiple people in need due to diffusion of responsibility.",
+      "People are generally less likely to help an individual help seeker than a group of help seekers due to a lower associated cost.",
+      "People report being more likely to help and are more likely to help when the help seeker is alone as it results in higher levels of negative feelings for helper.",
+      "People feel more empathy and are more likely to help those in group settings as there is an increased perception of shared suffering."
+    ],
+    "answer": "People report being more likely to help and are more likely to help when the help seeker is alone as it results in higher levels of negative feelings for helper."
+  },
+  {
+    "question": "Based on the lecture notes, what did Tomasello's (2016) study reveal about the development of guilt-motivated prosocial behavior in children?",
+    "options": [
+      "2 year olds demonstrated stronger reparative behaviour, regardless of what caused harm and whether or not harm was present.",
+      "2 year olds demonstrated no reparative behavior, and instead focussed on understanding the emotions of others involved.",
+      "3 year olds in the child-harm condition scored higher on reparative behavior than other conditions, indicating that a sense of guilt-driven reparative behavior is apparent by the age of 3.",
+      "Children are unable to feel true guilt until they are around 5 years old."
+    ],
+    "answer": "3 year olds in the child-harm condition scored higher on reparative behavior than other conditions, indicating that a sense of guilt-driven reparative behavior is apparent by the age of 3."
+  },
+  {
+    "question": "According to the lecture notes, which statement best describes the core features of 'flow' experiences?",
+    "options": [
+      "‘Flow’ is characterized by complete self-consciousness, a lack of focused attention, and a focus on individual goals.",
+      "‘Flow’ is a state marked by complete concentration on a task, a balance between challenge and skill, and a sense of effortlessness, also involving a loss of self consciousness.",
+      "‘Flow’ is best experienced when the skills of the individual far outweigh the challenge they are presented with.",
+      "‘Flow’ is most effectively maintained through periods of self-reflection and self-comparison to others."
+    ],
+    "answer": "‘Flow’ is a state marked by complete concentration on a task, a balance between challenge and skill, and a sense of effortlessness, also involving a loss of self consciousness."
+  },
+  {
+    "question": "What does Dan Dennett's concept of the 'self as the center of narrative gravity' propose about the nature of the self, as discussed in your notes?",
+    "options": [
+      "That the self is primarily a physical entity located in the brain, with a solid structure, which cannot be changed",
+      "That the self is an easily-definable truth of who you are that should not change.",
+      "That the self is a real entity rather than a useful illusion of who we are",
+      "That the self is a narrative construction made up of memories, thoughts, plans, likes, dislikes, and other elements."
+    ],
+    "answer": "That the self is a narrative construction made up of memories, thoughts, plans, likes, dislikes, and other elements."
+  },
+  {
+    "question": "Based on your notes on the effects of psychedelic drugs on the self, which of the following best captures the results of MDMA and Psilocybin research?",
+    "options": [
+      "MDMA and psilocybin increase ego and social isolation, and reduce levels of anxiety.",
+      "MDMA and psilocybin have limited to no impact on the DMN, and have little to no application in clinical settings.",
+      "Both MDMA and psilocybin produce feelings of connectedness and ego dissolution, associated with reduced activity in the DMN.",
+      "MDMA and psilocybin have been shown to work best for patients with mild cases of PTSD and depression, but do not work well for more severe cases."
+    ],
+    "answer": "Both MDMA and psilocybin produce feelings of connectedness and ego dissolution, associated with reduced activity in the DMN."
+  },
+  {
+    "question": "Based on the lecture notes, how did the treatment of mental health patients in 'Bedlam' differ from the approaches advocated by the York Retreat?",
+    "options": [
+      "Bedlam offered talk therapy and medication, whereas the York Retreat focused on isolation and punishment.",
+      "Bedlam used a holistic treatment approach, whereas the York Retreat focused on biological interventions.",
+      "Bedlam was characterized by neglect, mockery, and limited care, while the York Retreat promoted humane and progressive practices, such as family visits.",
+      "Both institutions used physical restraints, but Bedlam did this for safety reasons whereas the York Retreat focused on 'healing the soul to heal the body'"
+    ],
+    "answer": "Bedlam was characterized by neglect, mockery, and limited care, while the York Retreat promoted humane and progressive practices, such as family visits."
+  },
+  {
+    "question": "According to your notes, what was the significance of the Jeanna Fery case in the context of Dissociative Identity Disorder (DID)?",
+    "options": [
+      "It is the most well-known case of DID, with evidence of 16 alters, and an integration at the end of the therapy.",
+      "It provided a strong basis for the 'fantasy' model, highlighting how a strong suggestibility and false memories can create different alters.",
+      "It represents one of the earliest well-documented cases of DID, described through detailed notes taken during the 21-month treatment course and by Jeanna herself.",
+      "It provided key evidence for an under active right prefrontal cortex, which caused the emergence of 50 or more devils in the individual."
+    ],
+    "answer": "It represents one of the earliest well-documented cases of DID, described through detailed notes taken during the 21-month treatment course and by Jeanna herself."
+  },
+  {
+    "question": "What is the main finding of the Meshi et al. (2013) study, based on your lecture notes, which looked at neural responses to 'likes' on Facebook?",
+    "options": [
+      "That people’s nucleus accumbens responded more when other people received likes, which shows social connections are not as powerful as self interest.",
+      "That people's nucleus accumbens responded more when they received likes, especially in people who used Facebook more, than when observing others receive likes.",
+      "That people who used facebook the most showed the smallest response in their nucleus accumbens.",
+      "That the nucleus accumbens does not have any affect when observing others receiving likes or when you receive likes."
+    ],
+    "answer": "That people's nucleus accumbens responded more when they received likes, especially in people who used Facebook more, than when observing others receive likes."
+  },
+  {
+    "question": "According to your notes, how do chronic drug use patterns impact the brain's reward system, and what are some of the observable results of this?",
+    "options": [
+      "Chronic drug use increases grey matter volume in the frontal cortex, while also increasing the number of dopamine receptors, in order to compensate for overstimulation.",
+      "Chronic drug use leads to a decrease in striatum activity and dopamine release, and so leads to increased feelings of pleasure when taking drugs in high dosages.",
+      "Chronic drug use leads to an overstimulation of dopamine receptors, resulting in the brain reducing the number of dopamine receptors and leading to a slimmed down grey matter volume.",
+      "Chronic drug use reduces grey matter volume and reduces levels of dopamine, which is why addicts need to take more drugs to feel pleasure."
+    ],
+    "answer": "Chronic drug use leads to an overstimulation of dopamine receptors, resulting in the brain reducing the number of dopamine receptors and leading to a slimmed down grey matter volume."
+  },
+  {
+    "question": "Which of the following best describes the role of the limbic system in anxiety disorders, according to the lecture notes?",
+    "options": [
+      "The limbic system is solely responsible for externally-triggered anxieties, not self generated or internally triggered ones.",
+      "The limbic system primarily works through the dorsomedial prefrontal cortex and not the amygdala.",
+      "The limbic system, particularly interactions between the frontal regions and the amygdalae, underlies a wide range of anxiety disorders.",
+      "The limbic system acts on its own and does not interact with the anterior cingulate cortex in anxiety disorders."
+    ],
+    "answer": "The limbic system, particularly interactions between the frontal regions and the amygdalae, underlies a wide range of anxiety disorders."
+  },
+  {
+    "question": "In the context of phobias, what is the primary difference between 'modelling,' 'flooding,' and 'systematic desensitization' as behavioural therapy methods, based on your notes?",
+    "options": [
+      "Modelling directly exposes the patient to all aspects of the phobia from the start, flooding slowly and gradually introduces aspects of the phobia, and systematic desensitization involves watching a therapist undergo the phobic activity.",
+      "Flooding provides full exposure to the stimulus from the outset, modelling has the therapist demonstrate a positive behaviour before the patient attempts this, and systematic desensitization uses a gradual approach, often with relaxation techniques.",
+      "Systematic desensitization exposes the patient to imagined phobic stimuli, and flooding has them see real stimuli. While both of these are guided by a therapist, modelling is completely self-guided.",
+      "Systematic desensitization introduces an alternate fear, but modelling and flooding try to tackle the phobia directly."
+    ],
+    "answer": "Flooding provides full exposure to the stimulus from the outset, modelling has the therapist demonstrate a positive behaviour before the patient attempts this, and systematic desensitization uses a gradual approach, often with relaxation techniques."
+  },
+  {
+    "question": "According to the lecture notes, what did the findings of the out-of-body experience cases examined by Blanke et al (2004) indicate about the location of neural activity associated with such experiences?",
+    "options": [
+      "The out-of-body experience is associated with activity in the left temporoparietal junction.",
+      "The out-of-body experience is caused by stimulation of a wide area of the brain, with no one single point of origin.",
+      "Stimulation focused in or near the right temporoparietal junction (RTPJ) resulted in out-of-body experiences.",
+      "Out-of-body experiences are mostly caused by the lack of activation of the temporal parietal junctions."
+    ],
+    "answer": "Stimulation focused in or near the right temporoparietal junction (RTPJ) resulted in out-of-body experiences."
+  },
+  {
+    "question": "Which of the following accurately characterises the main difference between how OCD and Hoarding patients respond on sustained attentional tasks, as highlighted in your notes?",
+    "options": [
+      "OCD patients display no difference to control groups when carrying out sustained attentional tasks whereas hoarding patients perform worse on all aspects of these tests.",
+      "OCD patients perform worse on all aspects of sustained attentional tasks, whereas hoarding patients display impulsivity when responding to the wrong stimuli, but are accurate overall.",
+      "Hoarding patients had more impulsivity and made more errors on commission, whereas OCD patients displayed typical sustained attentional performances.",
+      "Both hoarding and OCD patients perform worse than controls on sustained attentional tasks."
+    ],
+    "answer": "Hoarding patients had more impulsivity and made more errors on commission, whereas OCD patients displayed typical sustained attentional performances."
+  },
+  {
+    "question": "According to your notes, what does Mead's concept of 'the looking glass self' suggest about the formation of our self-concept, and what is a key criticism of this idea?",
+    "options": [
+      "Our self-concept is a result of the innate perceptions we develop of the world, and that people are incapable of change.",
+      "Our self-concept comes from viewing ourselves as we believe others view us, but a critique is that it suggests people have little agency to change their self-concept beyond this, which is not true.",
+      "Our self-concept is developed through comparing ourselves to others, which has no bearing on how other people see us.",
+      "Our self-concept is derived solely from our experiences with others, which may change who we are over time, and thus people cannot control their own identity."
+    ],
+    "answer": "Our self-concept comes from viewing ourselves as we believe others view us, but a critique is that it suggests people have little agency to change their self-concept beyond this, which is not true."
+  },
+  {
+    "question": "Which of the following best describes the difference between 'promotion focus' and 'prevention focus,' according to Regulatory Focus Theory in your notes?",
+    "options": [
+      "Promotion focus is concerned with meeting all goals simultaneously, whilst preventing failure by not meeting any.",
+      "Promotion focus is more associated with fulfilling our duties and obligations, and preventing failure is associated with achieving one’s aspirations.",
+      "Prevention focus is associated with a focus on an 'ideal self', and promotion with the 'ought self'.",
+      "Promotion focus is concerned with achieving one’s aspirations, while prevention focus centers on fulfilling one’s duties and obligations."
+    ],
+    "answer": "Promotion focus is concerned with achieving one’s aspirations, while prevention focus centers on fulfilling one’s duties and obligations."
+  },
+  {
+    "question": "In the context of self-control, what were the main findings from Shoda et al’s (1990) study with toddlers and the ‘marshmallow test’ mentioned in your notes?",
+    "options": [
+      "The study revealed that toddlers have limited self control, which is shown through a decrease in SAT scores later in life.",
+      "The study shows that self control changes depending on the reward being offered.",
+      "The study found a positive correlation between self-control and educational success, but found no long lasting effects on brain scans, for different groups of delayers.",
+      "The study showed that high self-control in early childhood is correlated with better educational success and the ability to suppress a response to a happy face later in life, with brain scans also supporting this."
+    ],
+    "answer": "The study showed that high self-control in early childhood is correlated with better educational success and the ability to suppress a response to a happy face later in life, with brain scans also supporting this."
+  },
+  {
+    "question": "According to the notes, what is a key difference between Korean and American participants regarding the fundamental attribution error, as shown in the study by Choi and Nisbett?",
+    "options": [
+      "Korean participants showed a stronger correspondence bias than American participants regardless of having extra information, showing the cultural differences to not matter.",
+      "American participants did not reduce their correspondence bias even when provided with extra information, but Korean participants did.",
+      "Both American and Korean participants reduced their correspondence bias when provided with extra information.",
+      "Korean participants had a tendency to place blame on others for all negative behaviours, even with the presence of extra information."
+    ],
+    "answer": "American participants did not reduce their correspondence bias even when provided with extra information, but Korean participants did."
+  },
+  {
+    "question": "According to the notes on self-sexualization, what were the results of the study of 381 Iranian women (mostly middle class and housewives)?",
+    "options": [
+      "It found there was little relationship between self-sexualization, objectifying media, and other related factors such as body monitoring and self-esteem.",
+      "It showed women from Iran engaged more in self-sexualization of appearance, especially through clothing and hair styles, compared to women from the USA.",
+      "It showed that women in Iran who consumed more objectifying media had lower self-esteem, wore more makeup/hairstyling, and compulsively shopped as a result of body monitoring.",
+      "It showed women who spent more time monitoring their bodies had higher levels of self-esteem and therefore consumed objectifying media at higher rates."
+    ],
+    "answer": "It showed that women in Iran who consumed more objectifying media had lower self-esteem, wore more makeup/hairstyling, and compulsively shopped as a result of body monitoring."
+  },
+  {
+    "question": "According to your notes on self-objectification, what does this psychological process primarily involve?",
+    "options": [
+      "Objectifying others and viewing them in terms of their body.",
+      "Evaluating others on their intellectual capabilities over their appearance",
+      "Viewing one's self worth and value primarily in terms of physical appearance and sex appeal, neglecting cognitive capabilities and other functions.",
+      "Objectifying oneself through a balanced approach that takes into account physical and cognitive capabilities, as well as appearance."
+    ],
+    "answer": "Viewing one's self worth and value primarily in terms of physical appearance and sex appeal, neglecting cognitive capabilities and other functions."
+  },
+  {
+    "question": "Which statement best describes the core findings of the study by Delhomme (1991) regarding relative driving capabilities?",
+    "options": [
+      "The majority of participants rated themselves as worse than average drivers, and admitted to making the most driving errors.",
+      "Most participants rated themselves as equal to or worse than average drivers, but few admitted to making mistakes.",
+      "Most participants rated themselves as better than the average driver, showcasing a superior conformity of self-bias.",
+      "The majority of participants rated themselves as worse than average drivers, but they did not make any more errors than those who rated themselves better."
+    ],
+    "answer": "Most participants rated themselves as better than the average driver, showcasing a superior conformity of self-bias."
+  },
+  {
+    "question": "According to the lecture notes, what does the 'drive theory' propose about the effect of others on task performance, and how does this theory work?",
+    "options": [
+      "Drive theory says that the presence of others reduces arousal, which means that both easy and difficult tasks will have impaired performance.",
+      "Drive theory states that the presence of others increases arousal, which increases the dominant response, meaning a correct response would increase performance but an incorrect one would decrease it.",
+      "Drive theory suggests that arousal occurs when people are alone, which either helps or hinders performance depending on their practice and skill.",
+      "Drive theory is not related to task performance and is better suited to explaining why people become more impulsive in crowds."
+    ],
+    "answer": "Drive theory states that the presence of others increases arousal, which increases the dominant response, meaning a correct response would increase performance but an incorrect one would decrease it."
+  },
+  {
+    "question": "According to the lecture notes, which of the following options is the most accurate description of social loafing, and how does it relate to individual contributions?",
+    "options": [
+      "Social loafing refers to instances where individuals work harder when their contributions are part of a group.",
+      "Social loafing happens when individuals decrease their effort on a task when they perceive that others are working on the task, with no individual assessment.",
+      "Social loafing is a result of an increase in individual responsibility when working in a group.",
+      "Social loafing can only occur in situations where there is no direct assessment of individual effort in the overall group task."
+    ],
+    "answer": "Social loafing happens when individuals decrease their effort on a task when they perceive that others are working on the task, with no individual assessment."
+  },
+  {
+    "question": "According to your notes, how does Sherif's 'Realistic Group Conflict Theory' explain the development of intergroup prejudice?",
+    "options": [
+      "Prejudice and discrimination develop because of a lack of social categorization between different groups, creating confusion.",
+      "Prejudice and discrimination arise as a result of limited resources, leading to competition and hostility between groups.",
+      "Prejudice develops purely from an innate human tendency towards group conflict.",
+      "Prejudice and discrimination are a purely social creation and are not affected by access to resources."
+    ],
+    "answer": "Prejudice and discrimination arise as a result of limited resources, leading to competition and hostility between groups."
+  },
+  {
+    "question": "According to the notes, what did the 'minimal group studies' by Tajfel reveal about the conditions necessary for intergroup discrimination?",
+    "options": [
+      "Intergroup discrimination only occurs when there is a strong historical relationship between groups.",
+      "Intergroup discrimination is a result of people trying to achieve maximum rewards for themselves and their own group.",
+      "Intergroup discrimination is a result of competition over resources.",
+      "The studies suggest that basic social categorisation of ‘us’ vs ‘them’ is enough for intergroup discrimination to occur, and does not need any additional factors."
+    ],
+    "answer": "The studies suggest that basic social categorisation of ‘us’ vs ‘them’ is enough for intergroup discrimination to occur, and does not need any additional factors."
+  },
+  {
+    "question": "Based on your notes, what does Social Identity Theory (SIT) propose about the relationship between group membership and individual self-esteem?",
+    "options": [
+      "Membership of a low status group will increase self esteem due to feeling more of a connection to the other people in that group.",
+      "Individuals are motivated to enhance their self-esteem through a positive distinctiveness by belonging to a group.",
+      "High self esteem and self worth is not directly tied to membership of a social group, according to SIT.",
+      "Self-esteem in an individual can be improved through individual mobility, as there is no positive effect from social creativity or competition."
+    ],
+    "answer": "Individuals are motivated to enhance their self-esteem through a positive distinctiveness by belonging to a group."
+  },
+  {
+    "question": "According to the lecture notes, what role does anonymity play in Deindividuation Theory?",
+    "options": [
+      "Anonymity enhances individual responsibility and adherence to social norms in crowd situations.",
+      "Anonymity, through loss of personal identity in a crowd, leads to a reduction in self-consciousness and increased impulsive, instinctive behaviors.",
+      "Anonymity increases the likelihood of acting in accordance with social norms, rather than acting instinctively.",
+      "Anonymity has no effect on individual behaviours when in a crowd, as deindividuation can only be caused by social responsibility."
+    ],
+    "answer": "Anonymity, through loss of personal identity in a crowd, leads to a reduction in self-consciousness and increased impulsive, instinctive behaviors."
+  },
+  {
+    "question": "Based on your lecture notes, how do the SIDE (Social Identity Model of Deindividuation Effects) model and Deindividuation theory differ in their explanations of crowd behaviour?",
+    "options": [
+      "SIDE model proposes that crowds demonstrate mindless behaviours due to the loss of individuality, where Deindividuation theory describes that behaviours are regulated based on group norms.",
+      "SIDE model explains behaviours based on individual responsibility, where Deindividuation theory focuses on how crowds behave in accordance with a group goal.",
+      "Deindividuation theory describes crowd behaviours as irrational and based on the loss of self, whereas SIDE views crowd behaviours as regulated in accordance with group norms.",
+      "SIDE model and Deindividuation theory propose the same reasons for crowd behaviour and have no real differences."
+    ],
+    "answer": "Deindividuation theory describes crowd behaviours as irrational and based on the loss of self, whereas SIDE views crowd behaviours as regulated in accordance with group norms."
+  },
+  {
+    "question": "According to your lecture notes, which of the following is a key limitation of the Bystander Calculus Model in explaining helping behaviour?",
+    "options": [
+      "The model fails to explain why there is no relationship between level of empathy and helping behaviour.",
+      "The model does not take into account the role of reinforcement and modelling on prosocial behaviour.",
+      "It focuses too much on external factors, neglecting the internal physiological factors associated with the bystander effect.",
+      "The model views prosocial behavior as a means to reduce personal distress, rather than genuine altruism."
+    ],
+    "answer": "The model views prosocial behavior as a means to reduce personal distress, rather than genuine altruism."
+  },
+  {
+    "question": "Based on your notes, what did the study by Bernstein et al (1994) reveal about how kinship and situations impact helping behaviours?",
+    "options": [
+      "People are more likely to help relatives than strangers and only when the situation is very severe, regardless of the relatedness.",
+      "People are more likely to help closer relatives, but only in everyday situations, and tend not to help them in more severe situations.",
+      "Kinship has no relationship on if and when a person will help somebody.",
+      "People are more likely to help closer relatives, particularly in everyday situations and life-or-death scenarios when those relatives are healthy, rather than when sick."
+    ],
+    "answer": "People are more likely to help closer relatives, particularly in everyday situations and life-or-death scenarios when those relatives are healthy, rather than when sick."
+  },
+  {
+    "question": "What does the concept of 'Ikigai,' as presented in your notes, offer as an alternative to Maslow's Hierarchy of Needs in understanding the development of the self?",
+    "options": [
+      " 'Ikigai' focuses on the development of the self as separate from social factors whereas the hierarchy of needs is purely about interactions with society.",
+      "'Ikigai' says that people cannot prioritise one area of life over another whereas the hierarchy suggests that the base levels need to be prioritised before moving upwards.",
+      "'Ikigai' includes a focus on societal contribution along with self focus, which can be met without fully meeting all other areas, compared to Maslow’s idea that each level must be met before progressing.",
+      "'Ikigai' focuses on the ideal self and does not require a sense of belonging to be met, unlike Maslow's model."
+    ],
+    "answer": "'Ikigai' includes a focus on societal contribution along with self focus, which can be met without fully meeting all other areas, compared to Maslow’s idea that each level must be met before progressing."
+  },
+  {
+    "question": "According to your lecture notes, how does the historical case of Sarah Gardner’s experience at Bethlem Hospital contribute to our understanding of mental health issues?",
+    "options": [
+      "It demonstrated that men were more prone to depression and mental health issues than women,",
+      "It highlights the social stigma and distress associated with being a single woman in the 1800’s, in a similar way to the case of Anna O.",
+      "It highlights the importance of physical interventions to treat mental health, such as lobotomies and wet packs.",
+      "It showed a decrease in social stigma towards those who admitted to self-harming behaviour at the time."
+    ],
+    "answer": "It highlights the social stigma and distress associated with being a single woman in the 1800’s, in a similar way to the case of Anna O."
+  },
+  {
+    "question": "Based on the lecture notes, what is the main criticism of Braun’s approach to treating Patricia Burgus?",
+    "options": [
+      "Braun was criticised for the overuse of medication with no improvement to her symptoms.",
+      "That he incorrectly tried to treat the disorder through the use of talk therapy, despite a clear genetic predisposition.",
+      "That through hypnosis and medication, he inadvertently encouraged false memories related to devil-worshipping cults which were later found to not be true.",
+      "He did not use any recognised method of treatment, which led to over 300 alters."
+    ],
+    "answer": "That through hypnosis and medication, he inadvertently encouraged false memories related to devil-worshipping cults which were later found to not be true."
+  },
+  {
+    "question": "According to your lecture notes, what do the findings of studies using brain imaging techniques reveal about the neural basis of 'internet addiction', specifically in relation to cue-induced craving?",
+    "options": [
+      "That, unlike substance addiction, online gaming does not activate the mesolimbic pathway and the prefrontal cortex.",
+      "That, similar to drug addiction, online gaming images specifically activate the medial frontal cortex and nucleus accumbens, suggesting cue-induced cravings.",
+      "That internet gaming leads to increased blood flow in the orbitofrontal cortex, but does not have any similar effects to drug addiction",
+      "That there is no similarity between drug addiction and online gaming addiction, and therefore online gaming cannot truly be an addiction."
+    ],
+    "answer": "That, similar to drug addiction, online gaming images specifically activate the medial frontal cortex and nucleus accumbens, suggesting cue-induced cravings."
+  },
+  {
+    "question": "Based on your lecture notes, what is the difference between the functions of the 'mesoaccumbens dopamine projection' and the 'mesocortical dopamine projection' in the mesolimbic dopamine system?",
+    "options": [
+      "The mesoaccumbens dopamine projection is responsible for initiating feelings of pleasure, whilst the mesocortical dopamine projection evaluates these experiences.",
+      "Both the mesoaccumbens and the mesocortical dopamine projection both signal to the nucleus accumbens from the ventral tegmental area.",
+      "The mesoaccumbens dopamine projection projects dopamine neurons to the medial prefrontal cortex, whereas the mesocortical dopamine projection projects them to the nucleus accumbens.",
+      "The mesoaccumbens dopamine projection is the most important part of the pathway projecting from the VTA to the Nucleus Accumbens, and the mesocortical projects to the Medial prefrontal cortex for further processing."
+    ],
+    "answer": "The mesoaccumbens dopamine projection is the most important part of the pathway projecting from the VTA to the Nucleus Accumbens, and the mesocortical projects to the Medial prefrontal cortex for further processing."
+  },
+  {
+    "question": "What is the role of the anterior cingulate cortex (ACC) in Generalized Anxiety Disorder (GAD), as indicated by the research mentioned in your notes?",
+    "options": [
+      "Studies have found a decreased activation of the ACC in GAD patients, which leads to a lack of self awareness.",
+      "Studies show activation of the ACC only in response to aversive images, and not when presented with neutral images.",
+      "The ACC only causes increased worry-inducing behaviour when presented with an external stimuli.",
+      "Studies show increased activation of the ACC during post-stimulus 'rest' periods, specifically during worry-inducing sentences, suggesting a difficulty in 'switching off' anxious thoughts."
+    ],
+    "answer": "Studies show increased activation of the ACC during post-stimulus 'rest' periods, specifically during worry-inducing sentences, suggesting a difficulty in 'switching off' anxious thoughts."
+  },
+  {
+    "question": "How does the concept of 'instrumental avoidance' relate to the perpetuation of specific phobias, according to your lecture notes?",
+    "options": [
+      "It leads to a decrease in negative reinforcement and, therefore, a decrease in fear around the phobic stimulus.",
+      "The instrumental component is not relevant in specific phobias, and is instead used to describe different anxiety disorders.",
+      "It maintains the phobia through continually avoiding phobic stimuli, so preventing exposure which would help the person get used to the phobic situation/object.",
+      "It is a method of learning new, more adaptive skills in relation to a specific stimulus."
+    ],
+    "answer": "It maintains the phobia through continually avoiding phobic stimuli, so preventing exposure which would help the person get used to the phobic situation/object."
+  },
+  {
+    "question": "According to your notes on Munchausen’s Syndrome, which of the following statements best describes the different subtypes of this syndrome (Libow and Schreier, 1986)?",
+    "options": [
+      "'Help seekers' repeatedly present to doctors and hospitals for medical conditions in their children, whilst 'doctor addicts' seek attention by making up symptoms in their children.",
+      "'Doctor addicts' induce medical symptoms in their children, 'help seekers' present for symptoms to get attention for themselves, and 'active inducers' repeat this behaviour without any awareness of the conditions they are creating.",
+      "'Active inducers' directly cause dramatic symptoms in their children, while 'help seekers' make up symptoms and are more likely to give up the behaviors if offered help, and 'doctor addicts' are convinced of their children's symptoms but do not actively cause these symptoms.",
+      "'Active inducers' directly cause dramatic symptoms in their children, while 'help seekers' do not want their behaviour to stop and ‘doctor addicts’ do not want their children to receive help from doctors."
+    ],
+    "answer": "'Active inducers' directly cause dramatic symptoms in their children, while 'help seekers' make up symptoms and are more likely to give up the behaviors if offered help, and 'doctor addicts' are convinced of their children's symptoms but do not actively cause these symptoms."
+  },
+  {
+    "question": "Based on your lecture notes, what is the key finding of the study by Fausner et al. (2010) regarding the neural activity in BDD patients when presented with their own faces?",
+    "options": [
+      "They found decreased activation of the orbitofrontal cortex and head of the caudate compared to those with OCD, but an increase in activation of the occipital cortex.",
+      "They found the same activation in orbitofrontal cortex and head of caudate as people with OCD, but did not find the same decrease in occipital cortex activation.",
+      "They found a highly aversive response and increased activity in the orbitofrontal cortex and head of the caudate, similar to OCD symptoms, but also found decreased activity in the occipital cortex.",
+      "They did not find any difference to a control group when BDD ppts were presented with their own faces."
+    ],
+    "answer": "They found a highly aversive response and increased activity in the orbitofrontal cortex and head of the caudate, similar to OCD symptoms, but also found decreased activity in the occipital cortex."
+  },
+  {
+    "question": "According to your lecture notes, what does 'self-perception theory' propose about the relationship between our behaviors and our self-concept?",
+    "options": [
+      "Our self concept is formed primarily through our social status in society.",
+      "Our self-concept has no relationship to our behaviour and, is instead, a more fixed identity.",
+      "Our self-concept has a large effect on our behaviours.",
+      "We gain self-knowledge by observing our own behavior, and imagining behaving a certain way can change our sense of self."
+    ],
+    "answer": "We gain self-knowledge by observing our own behavior, and imagining behaving a certain way can change our sense of self."
+  },
+  {
+    "question": "According to your notes, how does the concept of 'temporal discounting' relate to self-control?",
+    "options": [
+      "Temporal discounting suggests that people are more focused on immediate rather than delayed rewards, regardless of their self control abilities.",
+      "Temporal discounting has no relationship with a persons capacity to elicit self control.",
+      "Temporal discounting highlights the concept of immediate vs delayed reward and shows individual differences in this, that are related to the capacity to elicit self control",
+      "Temporal discounting suggests people have no agency in their decisions relating to self control."
+    ],
+    "answer": "Temporal discounting highlights the concept of immediate vs delayed reward and shows individual differences in this, that are related to the capacity to elicit self control"
+  },
+  {
+    "question": "Based on the lecture notes, what was the primary finding of the study using 'dichotic listening' and the 'cocktail party effect' (Wood and Cowan, 1995)?",
+    "options": [
+      "That ppts do not notice their name being mentioned in a non-attended channel, and cannot be distracted from other tasks.",
+      "That people were more focussed on a general task and therefore did not notice that their name was spoken in another channel, showing no effect of self-relevant channels.",
+      "That ppts sometimes notice their name in an ignored auditory channel, and that when this occurs it shifts attention and reduces performance on another task, showing a bias towards self-relevant channels.",
+      "That when listening to multiple audio channels, people are unable to filter through the various streams to attend to only one of them."
+    ],
+    "answer": "That ppts sometimes notice their name in an ignored auditory channel, and that when this occurs it shifts attention and reduces performance on another task, showing a bias towards self-relevant channels."
+  },
+  {
+    "question": "Based on the notes, which of the following best captures the core concept of 'solitude' and its relationship to the self?",
+    "options": [
+      "Solitude is defined as the lack of interaction with other people, which directly contributes to a lack of self-knowledge, and should be avoided for good mental health.",
+      "Solitude, unlike loneliness, is a chosen and positive state that can lead to transformative experiences and reveal more about the self.",
+      "Solitude is often associated with negative thought patterns and poor mental health and should be avoided.",
+      "Solitude is the desired and necessary outcome of all social interactions, as it will help develop the ‘true self’."
+    ],
+    "answer": "Solitude, unlike loneliness, is a chosen and positive state that can lead to transformative experiences and reveal more about the self."
+  },
+  {
+    "question": "According to the notes on self-sexualization, which of the following was a major finding of a study conducted on a sample of psychology students in the USA?",
+    "options": [
+      "Self-sexualization on social media was primarily used as a way to match an individual's ideal self.",
+      "Self-sexualization on social media was mainly driven by the need to connect with others, especially with the opposite gender.",
+      "Self-sexualization was rare in the sample, and they all primarily valued intelligence over appearance, and the only driving factor was wanting attention from others.",
+      "That wanting attention from others was the strongest predictor of posting sexualized pictures, and those that did so also got more likes and followers."
+    ],
+    "answer": "That wanting attention from others was the strongest predictor of posting sexualized pictures, and those that did so also got more likes and followers."
+  },
+  {
+    "question": "According to your notes on self-objectification, what does this psychological process primarily involve?",
+    "options": [
+      "Objectifying others and viewing them in terms of their body.",
+      "Evaluating others on their intellectual capabilities over their appearance",
+      "Viewing one's self worth and value primarily in terms of physical appearance and sex appeal, neglecting cognitive capabilities and other functions.",
+      "Objectifying oneself through a balanced approach that takes into account physical and cognitive capabilities, as well as appearance."
+    ],
+    "answer": "Viewing one's self worth and value primarily in terms of physical appearance and sex appeal, neglecting cognitive capabilities and other functions."
+  },
+  {
+    "question": "Which statement best describes the core findings of the study by Delhomme (1991) regarding relative driving capabilities?",
+    "options": [
+      "The majority of participants rated themselves as worse than average drivers, and admitted to making the most driving errors.",
+      "Most participants rated themselves as equal to or worse than average drivers, but few admitted to making mistakes.",
+      "Most participants rated themselves as better than the average driver, showcasing a superior conformity of self-bias.",
+      "The majority of participants rated themselves as worse than average drivers, but they did not make any more errors than those who rated themselves better."
+    ],
+    "answer": "Most participants rated themselves as better than the average driver, showcasing a superior conformity of self-bias."
+  },
+  {
+    "question": "According to the lecture notes, what does the 'drive theory' propose about the effect of others on task performance, and how does this theory work?",
+    "options": [
+      "Drive theory says that the presence of others reduces arousal, which means that both easy and difficult tasks will have impaired performance.",
+      "Drive theory states that the presence of others increases arousal, which increases the dominant response, meaning a correct response would increase performance but an incorrect one would decrease it.",
+      "Drive theory suggests that arousal occurs when people are alone, which either helps or hinders performance depending on their practice and skill.",
+      "Drive theory is not related to task performance and is better suited to explaining why people become more impulsive in crowds."
+    ],
+    "answer": "Drive theory states that the presence of others increases arousal, which increases the dominant response, meaning a correct response would increase performance but an incorrect one would decrease it."
+  },
+  {
+    "question": "According to the lecture notes, which of the following options is the most accurate description of social loafing, and how does it relate to individual contributions?",
+    "options": [
+      "Social loafing refers to instances where individuals work harder when their contributions are part of a group.",
+      "Social loafing happens when individuals decrease their effort on a task when they perceive that others are working on the task, with no individual assessment.",
+      "Social loafing is a result of an increase in individual responsibility when working in a group.",
+      "Social loafing can only occur in situations where there is no direct assessment of individual effort in the overall group task."
+    ],
+    "answer": "Social loafing happens when individuals decrease their effort on a task when they perceive that others are working on the task, with no individual assessment."
+  },
+  {
+    "question": "According to your notes, how does Sherif's 'Realistic Group Conflict Theory' explain the development of intergroup prejudice?",
+    "options": [
+      "Prejudice and discrimination develop because of a lack of social categorization between different groups, creating confusion.",
+      "Prejudice and discrimination arise as a result of limited resources, leading to competition and hostility between groups.",
+      "Prejudice develops purely from an innate human tendency towards group conflict.",
+      "Prejudice and discrimination are a purely social creation and are not affected by access to resources."
+    ],
+    "answer": "Prejudice and discrimination arise as a result of limited resources, leading to competition and hostility between groups."
+  },
+  {
+    "question": "According to the notes, what did the 'minimal group studies' by Tajfel reveal about the conditions necessary for intergroup discrimination?",
+    "options": [
+      "Intergroup discrimination only occurs when there is a strong historical relationship between groups.",
+      "Intergroup discrimination is a result of people trying to achieve maximum rewards for themselves and their own group.",
+      "Intergroup discrimination is a result of competition over resources.",
+      "The studies suggest that basic social categorisation of ‘us’ vs ‘them’ is enough for intergroup discrimination to occur, and does not need any additional factors."
+    ],
+    "answer": "The studies suggest that basic social categorisation of ‘us’ vs ‘them’ is enough for intergroup discrimination to occur, and does not need any additional factors."
+  },
+  {
+    "question": "Based on your notes, what does Social Identity Theory (SIT) propose about the relationship between group membership and individual self-esteem?",
+    "options": [
+      "Membership of a low status group will increase self esteem due to feeling more of a connection to the other people in that group.",
+      "Individuals are motivated to enhance their self-esteem through a positive distinctiveness by belonging to a group.",
+      "High self esteem and self worth is not directly tied to membership of a social group, according to SIT.",
+      "Self-esteem in an individual can be improved through individual mobility, as there is no positive effect from social creativity or competition."
+    ],
+    "answer": "Individuals are motivated to enhance their self-esteem through a positive distinctiveness by belonging to a group."
+  },
+  {
+    "question": "According to the lecture notes, what role does anonymity play in Deindividuation Theory?",
+    "options": [
+      "Anonymity enhances individual responsibility and adherence to social norms in crowd situations.",
+      "Anonymity, through loss of personal identity in a crowd, leads to a reduction in self-consciousness and increased impulsive, instinctive behaviors.",
+      "Anonymity increases the likelihood of acting in accordance with social norms, rather than acting instinctively.",
+      "Anonymity has no effect on individual behaviours when in a crowd, as deindividuation can only be caused by social responsibility."
+    ],
+    "answer": "Anonymity, through loss of personal identity in a crowd, leads to a reduction in self-consciousness and increased impulsive, instinctive behaviors."
+  },
+  {
+    "question": "Based on your lecture notes, how do the SIDE (Social Identity Model of Deindividuation Effects) model and Deindividuation theory differ in their explanations of crowd behaviour?",
+    "options": [
+      "SIDE model proposes that crowds demonstrate mindless behaviours due to the loss of individuality, where Deindividuation theory describes that behaviours are regulated based on group norms.",
+      "SIDE model explains behaviours based on individual responsibility, where Deindividuation theory focuses on how crowds behave in accordance with a group goal.",
+      "Deindividuation theory describes crowd behaviours as irrational and based on the loss of self, whereas SIDE views crowd behaviours as regulated in accordance with group norms.",
+      "SIDE model and Deindividuation theory propose the same reasons for crowd behaviour and have no real differences."
+    ],
+    "answer": "Deindividuation theory describes crowd behaviours as irrational and based on the loss of self, whereas SIDE views crowd behaviours as regulated in accordance with group norms."
+  },
+  {
+    "question": "According to your lecture notes, which of the following is a key limitation of the Bystander Calculus Model in explaining helping behaviour?",
+    "options": [
+      "The model fails to explain why there is no relationship between level of empathy and helping behaviour.",
+      "The model does not take into account the role of reinforcement and modelling on prosocial behaviour.",
+      "It focuses too much on external factors, neglecting the internal physiological factors associated with the bystander effect.",
+      "The model views prosocial behavior as a means to reduce personal distress, rather than genuine altruism."
+    ],
+    "answer": "The model views prosocial behavior as a means to reduce personal distress, rather than genuine altruism."
+  },
+  {
+    "question": "Based on your notes, what did the study by Bernstein et al (1994) reveal about how kinship and situations impact helping behaviours?",
+    "options": [
+      "People are more likely to help relatives than strangers and only when the situation is very severe, regardless of the relatedness.",
+      "People are more likely to help closer relatives, but only in everyday situations, and tend not to help them in more severe situations.",
+      "Kinship has no relationship on if and when a person will help somebody.",
+      "People are more likely to help closer relatives, particularly in everyday situations and life-or-death scenarios when those relatives are healthy, rather than when sick."
+    ],
+    "answer": "People are more likely to help closer relatives, particularly in everyday situations and life-or-death scenarios when those relatives are healthy, rather than when sick."
+  },
+  {
+    "question": "What does the concept of \"Ikigai,\" as presented in your notes, offer as an alternative to Maslow's Hierarchy of Needs in understanding the development of the self?",
+    "options": [
+      "\"Ikigai\" focuses on the development of the self as separate from social factors whereas the hierarchy of needs is purely about interactions with society.",
+      "\"Ikigai\" says that people cannot prioritise one area of life over another whereas the hierarchy suggests that the base levels need to be prioritised before moving upwards.",
+      "\"Ikigai\" includes a focus on societal contribution along with self focus, which can be met without fully meeting all other areas, compared to Maslow’s idea that each level must be met before progressing.",
+      "\"Ikigai\" focuses on the ideal self and does not require a sense of belonging to be met, unlike Maslow's model."
+    ],
+    "answer": "\"Ikigai\" includes a focus on societal contribution along with self focus, which can be met without fully meeting all other areas, compared to Maslow’s idea that each level must be met before progressing."
+  }
+]

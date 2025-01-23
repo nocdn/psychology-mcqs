@@ -1,9 +1,9 @@
-now, for all of those questions that you just made me, please structure all of these questions in an array of dicts like this:
+Now, for all of those questions you just made for me, please structure all of these questions in an array of dictionaries (JSON format) like this:
 
 [
-{
-question: "the actual question",
-options: [an array of the possible answers],
-answer: "the actual correct option out of the available answers"
-},
+  {
+    "question": "The actual question as a string.",
+    "options": ["Option 1 as a string", "Option 2 as a string", "Option 3 as a string", "Option 4 as a string"],
+    "answer": "The actual correct option as a string (one of the options listed above)."
+  }
 ]
